@@ -5,11 +5,11 @@
 
 CIFR10 Result:
 
-![](./1.png)
+![](./pic/1.png)
 
 Places 365 Result:
 
-![](./2.png)
+![](./pic/2.png)
 
 ### 文档:
 
